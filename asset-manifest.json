@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gitpage/static/css/main.9f138ddf.css",
+    "main.css": "/gitpage/static/css/main.fae213c4.css",
     "main.js": "/gitpage/static/js/main.49293c61.js",
     "static/js/787.b3e4e704.chunk.js": "/gitpage/static/js/787.b3e4e704.chunk.js",
-    "static/media/background.jpg": "/gitpage/static/media/background.74f2a8846caee3094544.jpg",
+    "static/media/background.jpg": "/gitpage/static/media/background.f63a3a2ccd28390a6936.jpg",
     "index.html": "/gitpage/index.html",
-    "main.9f138ddf.css.map": "/gitpage/static/css/main.9f138ddf.css.map",
+    "main.fae213c4.css.map": "/gitpage/static/css/main.fae213c4.css.map",
     "main.49293c61.js.map": "/gitpage/static/js/main.49293c61.js.map",
     "787.b3e4e704.chunk.js.map": "/gitpage/static/js/787.b3e4e704.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f138ddf.css",
+    "static/css/main.fae213c4.css",
     "static/js/main.49293c61.js"
   ]
 }
